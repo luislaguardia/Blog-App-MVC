@@ -124,10 +124,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, feel free to reach out:
 
-- **Author:** Luis Gabriel Lagurdia
+- **Author:** Luis Gabriel Laguardia
 - **Email:** laguardialuisgabriel@gmail.com
 - **GitHub:** [luislaguardia](https://github.com/luislaguardia)
 
 ---
 
-Thank you for checking out this project! Happy coding!
+Thank you for checking out this project! viva Awit Salvatore!
