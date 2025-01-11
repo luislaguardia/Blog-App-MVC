@@ -61,7 +61,7 @@ Ensure you have the following installed:
 5. Start the application:
 
    ```bash
-   npm start
+   nodemon app.js
    ```
 
 6. Open your browser and navigate to:
